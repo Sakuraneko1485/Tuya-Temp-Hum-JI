@@ -18,14 +18,4 @@ Internet of Things Thermometer and Hygrometer Based on Tuya Platform
    
    配网时LED指示灯会十亮一灭的闪烁，连接上WiFi后LED会一闪一灭，完全连上涂鸦云LED熄灭，屏幕显示WiFi图标。
  
- 
-# 屏幕方案：
-使用的是0.96“的12864单色OLED，可以足够设备信息的显示。
-
-每10秒刷新一次温湿度，每30秒检测一次电池电量。
-
-WiFi和Tuya云均连接上后会显示WiFi图标，未连接上则显示一个X。
-
-电池电量在30%以上时，电池图标为满电实心图标。
-
-电池电量在30%以下时，电池图标为欠电空心图标。并且每1秒和满电图标交替闪烁。
+项目详细内容及PCB文件地址：https://oshwhub.com/SakuraNeko/mao-wen-shi-du-zhuan-gan-qi
